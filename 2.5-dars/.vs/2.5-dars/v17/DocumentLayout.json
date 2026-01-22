@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.5-dars\\services\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|solutionrelative:services\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.5-dars\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.5-dars\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.5-dars\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|solutionrelative:services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.5-dars\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.5-dars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471A417-7949-49D6-B09E-B50DD2DFA7BD}|2.5-dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\Services\\ICountryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICountryService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\Services\\ICountryService.cs",
+              "RelativeToolTip": "Services\\ICountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:19:12.845Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\models\\Country.cs",
+              "RelativeDocumentMoniker": "models\\Country.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\models\\Country.cs",
+              "RelativeToolTip": "models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:18:02.591Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:27:50.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Services\\IStudentService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:23:38.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\models\\Student.cs",
+              "RelativeDocumentMoniker": "models\\Student.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\models\\Student.cs",
+              "RelativeToolTip": "models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:17:43.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.5-dars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:15:33.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

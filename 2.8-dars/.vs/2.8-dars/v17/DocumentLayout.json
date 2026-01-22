@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8-dars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8-dars\\services\\teamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|solutionrelative:services\\teamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8-dars\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8-dars\\services\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|solutionrelative:services\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8-dars\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8-dars\\services\\smazureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|solutionrelative:services\\smazureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8-dars\\services\\smawsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|solutionrelative:services\\smawsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8-dars\\services\\isocialmediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|solutionrelative:services\\isocialmediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8-dars\\models\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309CF848-9EAC-4C97-B779-FB00BD3EC5EC}|2.8-dars.csproj|solutionrelative:models\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\INotification.cs",
+              "RelativeDocumentMoniker": "Services\\INotification.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\INotification.cs",
+              "RelativeToolTip": "Services\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:14:10.235Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:15:27.544Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:02:11.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamsService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\TeamsService.cs",
+              "RelativeDocumentMoniker": "Services\\TeamsService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\TeamsService.cs",
+              "RelativeToolTip": "Services\\TeamsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:02:37.477Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SMAzureService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\SMAzureService.cs",
+              "RelativeDocumentMoniker": "Services\\SMAzureService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\SMAzureService.cs",
+              "RelativeToolTip": "Services\\SMAzureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:04:11.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SMAwsService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\SMAwsService.cs",
+              "RelativeDocumentMoniker": "Services\\SMAwsService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\SMAwsService.cs",
+              "RelativeToolTip": "Services\\SMAwsService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:03:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISocialMediaService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\ISocialMediaService.cs",
+              "RelativeDocumentMoniker": "Services\\ISocialMediaService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Services\\ISocialMediaService.cs",
+              "RelativeToolTip": "Services\\ISocialMediaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:03:09.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Models\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "Models\\SocialMedia.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Models\\SocialMedia.cs",
+              "RelativeToolTip": "Models\\SocialMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:00:20.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8-dars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:58:20.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

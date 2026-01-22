@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8.2-dars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8.2-dars\\services\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|solutionrelative:services\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8.2-dars\\services\\clicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|solutionrelative:services\\clicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8.2-dars\\services\\zoomradservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|solutionrelative:services\\zoomradservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8.2-dars\\services\\xaznaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|solutionrelative:services\\xaznaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.8.2-dars\\services\\paynetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED2A56-FA4F-4F08-9ABB-A90E25568A76}|2.8.2-dars.csproj|solutionrelative:services\\paynetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 107,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZoomradService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\ZoomradService.cs",
+              "RelativeDocumentMoniker": "services\\ZoomradService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\ZoomradService.cs",
+              "RelativeToolTip": "services\\ZoomradService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:33:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XaznaService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\XaznaService.cs",
+              "RelativeDocumentMoniker": "services\\XaznaService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\XaznaService.cs",
+              "RelativeToolTip": "services\\XaznaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:30:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaynetService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\PaynetService.cs",
+              "RelativeDocumentMoniker": "services\\PaynetService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\PaynetService.cs",
+              "RelativeToolTip": "services\\PaynetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:28:20.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClicService.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\ClicService.cs",
+              "RelativeDocumentMoniker": "services\\ClicService.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\ClicService.cs",
+              "RelativeToolTip": "services\\ClicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:25:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\IPayment.cs",
+              "RelativeDocumentMoniker": "services\\IPayment.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\services\\IPayment.cs",
+              "RelativeToolTip": "services\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:20:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.8.2-dars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:10:34.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

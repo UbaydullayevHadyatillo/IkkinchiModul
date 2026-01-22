@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.4-dars\\models\\senior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|solutionrelative:models\\senior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.4-dars\\models\\juniyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|solutionrelative:models\\juniyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.4-dars\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|solutionrelative:models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.4-dars\\models\\domesticschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|solutionrelative:models\\domesticschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.4-dars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A388A46-DA61-4B50-8DA0-66C1B78B5035}|2.4-dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Senior.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Models\\Senior.cs",
+              "RelativeDocumentMoniker": "Models\\Senior.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Models\\Senior.cs",
+              "RelativeToolTip": "Models\\Senior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:30:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DomesticSchool.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Models\\DomesticSchool.cs",
+              "RelativeDocumentMoniker": "Models\\DomesticSchool.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Models\\DomesticSchool.cs",
+              "RelativeToolTip": "Models\\DomesticSchool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:26:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Juniyor.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Models\\Juniyor.cs",
+              "RelativeDocumentMoniker": "Models\\Juniyor.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Models\\Juniyor.cs",
+              "RelativeToolTip": "Models\\Juniyor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:24:16.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "School.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Models\\School.cs",
+              "RelativeDocumentMoniker": "Models\\School.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Models\\School.cs",
+              "RelativeToolTip": "Models\\School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:22:28.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.4-dars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:35:48.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

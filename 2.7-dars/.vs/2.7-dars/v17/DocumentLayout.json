@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.7-dars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3779D4-7B3A-4D34-9F62-8FF1D68BE4EC}|2.7-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.7-dars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3779D4-7B3A-4D34-9F62-8FF1D68BE4EC}|2.7-dars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3779D4-7B3A-4D34-9F62-8FF1D68BE4EC}|2.7-dars.csproj|d:\\coding\\dodnet\\modul1\\ikkinchimodul\\2.7-dars\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3779D4-7B3A-4D34-9F62-8FF1D68BE4EC}|2.7-dars.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.7-dars\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.7-dars\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:09:11.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.7-dars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\DodNet\\Modul1\\IkkinchiModul\\2.7-dars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:08:34.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\bin\Debug\net8.0\2.8.2-dars.exe
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\bin\Debug\net8.0\2.8.2-dars.deps.json
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\bin\Debug\net8.0\2.8.2-dars.runtimeconfig.json
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\bin\Debug\net8.0\2.8.2-dars.dll
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\bin\Debug\net8.0\2.8.2-dars.pdb
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\obj\Debug\net8.0\2.8.2-dars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\obj\Debug\net8.0\2.8.2-dars.AssemblyInfoInputs.cache
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\obj\Debug\net8.0\2.8.2-dars.AssemblyInfo.cs
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\obj\Debug\net8.0\2.8.2-dars.csproj.CoreCompileInputs.cache
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\obj\Debug\net8.0\2.8.2-dars.dll
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\obj\Debug\net8.0\refint\2.8.2-dars.dll
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\obj\Debug\net8.0\2.8.2-dars.pdb
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\obj\Debug\net8.0\2.8.2-dars.genruntimeconfig.cache
+D:\Coding\DodNet\Modul1\IkkinchiModul\2.8.2-dars\obj\Debug\net8.0\ref\2.8.2-dars.dll
